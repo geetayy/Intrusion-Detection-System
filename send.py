@@ -8,7 +8,7 @@ def sendSms():
     message = client.messages.create(
         from_='+12565784053',
         body='Intruder Detected',
-        to='+917067201164'
+        to='your_phone_number'
     )
 
     print(message.sid)
