@@ -5,8 +5,9 @@ An Intrusion Detection System (IDS) is a security mechanism designed to detect a
 It serves as a proactive defense mechanism against potential security threats and cyber attacks.
 
 ## Usage
-Save the intruder's image on local derive as well as on your imgbb handle.
+Save the intruder's image on local derive (set folder name as Intruders OR rename the folder as your wish in main.py) as well as on your imgbb handle.
 Get the text message on your phone about the intruder.
+
 
 ## Installation
 
