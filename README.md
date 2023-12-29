@@ -15,13 +15,19 @@ The Python script leverages the OpenCV library to detect human presence via a we
 
 ## Installation
 
-1. **Clone the repository:**
+```bash
+pip install opencv-python
+```
 
-2. **Install required libraries:**
-
-3. **Setup Twilio:**
-- Sign up for a Twilio account and obtain your Account SID, Auth Token, and Twilio phone number.
-- Replace `account_sid`, `auth_token`, `from_`, and `to` fields in the `sendSms()` function with your Twilio credentials and desired phone numbers.
+```bash
+pip install cvzone
+```
+```bash
+pip install twilio
+```
+```bash
+pip install mediapipe
+```
 
 ## Usage
 
